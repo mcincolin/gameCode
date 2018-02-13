@@ -1,0 +1,56 @@
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Guest/New Unity Project 1/obj/Debug/Assembly-CSharp.dll
+/Users/Guest/New Unity Project 1/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/nunit.framework.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/ProBuilderCore-Unity5.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/pb_Stl.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Poly2Tri.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/ProBuilderMeshOps-Unity5.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/KdTreeLib.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Guest/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/COLON DRIVE/Island Level/obj/Debug/Assembly-CSharp.dll
+/Volumes/COLON DRIVE/Island Level/obj/Debug/Assembly-CSharp.dll.mdb
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEditor.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/nunit.framework.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/ProBuilderCore-Unity5.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/ProBuilderMeshOps-Unity5.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/KdTreeLib.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/pb_Stl.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Poly2Tri.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/ExCSS.Unity.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Volumes/COLON DRIVE/Island Level/Temp/bin/Debug/Assembly-CSharp.dll
